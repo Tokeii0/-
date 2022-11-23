@@ -5,5 +5,5 @@
 
 修改获取任务id输入手机号进入平台就可以获取
 
-http:youid:9000/getanswer?id=xxxxxxx
+http://youid:9000/getanswer?id=xxxxxxx
 
